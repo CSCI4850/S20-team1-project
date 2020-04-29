@@ -17,47 +17,51 @@ Name 1 in "Giuseppe Amato, Fabio Carrara, Fabrizio Falchi, Claudio Gennaro, and 
 while executing---line 2405 of file IEEEtran.bst
 Too many commas in name 1 of "Giuseppe Amato, Fabio Carrara, Fabrizio Falchi, Claudio Gennaro, and Claudio Vairo" for entry b3
 while executing---line 2405 of file IEEEtran.bst
+Name 1 in "Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton" has a comma at the end for entry b4
+while executing---line 2405 of file IEEEtran.bst
+Name 1 in "Yann LeCun, Leon Bottou, Yoshua Bengio, and Patrick Haffner" has a comma at the end for entry b5
+while executing---line 2405 of file IEEEtran.bst
 
 Done.
-You've used 3 entries,
+You've used 5 entries,
             4087 wiz_defined-function locations,
-            835 strings with 7813 characters,
-and the built_in function-call counts, 1285 in all, are:
-= -- 98
-> -- 22
+            845 strings with 8087 characters,
+and the built_in function-call counts, 2073 in all, are:
+= -- 162
+> -- 40
 < -- 1
-+ -- 10
-- -- 5
-* -- 67
-:= -- 251
-add.period$ -- 6
-call.type$ -- 3
-change.case$ -- 3
++ -- 18
+- -- 9
+* -- 99
+:= -- 395
+add.period$ -- 10
+call.type$ -- 5
+change.case$ -- 5
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 108
-empty$ -- 111
-format.name$ -- 7
-if$ -- 265
+cite$ -- 5
+duplicate$ -- 180
+empty$ -- 185
+format.name$ -- 13
+if$ -- 441
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 18
-newline$ -- 32
-num.names$ -- 3
-pop$ -- 46
+int.to.str$ -- 5
+missing$ -- 30
+newline$ -- 38
+num.names$ -- 5
+pop$ -- 80
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 95
+skip$ -- 157
 stack$ -- 0
-substring$ -- 3
-swap$ -- 59
+substring$ -- 5
+swap$ -- 97
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 3
+type$ -- 5
 warning$ -- 0
-while$ -- 3
-width$ -- 4
-write$ -- 47
-(There were 3 error messages)
+while$ -- 5
+width$ -- 6
+write$ -- 63
+(There were 5 error messages)
