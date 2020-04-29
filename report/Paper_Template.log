@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.3.9)  28 APR 2020 23:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.3.9)  29 APR 2020 00:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -309,6 +309,12 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 
 LaTeX Warning: Label `fig' multiply defined.
 
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
 )
 \openout1 = `Paper_Template.aux'.
 
@@ -420,13 +426,23 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 <./random_car_transform.jpg, id=10, 108.405pt x 108.405pt>
 File: ./random_car_transform.jpg Graphic file (type jpg)
 <use ./random_car_transform.jpg>
-Package pdftex.def Info: ./random_car_transform.jpg  used on input line 111.
+Package pdftex.def Info: ./random_car_transform.jpg  used on input line 112.
 (pdftex.def)             Requested size: 252.0pt x 252.03238pt.
 <./model_plt.png, id=11, 151.56625pt x 515.9275pt>
 File: ./model_plt.png Graphic file (type png)
 <use ./model_plt.png>
-Package pdftex.def Info: ./model_plt.png  used on input line 124.
+Package pdftex.def Info: ./model_plt.png  used on input line 125.
 (pdftex.def)             Requested size: 151.56587pt x 515.92624pt.
+<./Capture.PNG, id=13, 406.51875pt x 218.31563pt>
+File: ./Capture.PNG Graphic file (type png)
+<use ./Capture.PNG>
+Package pdftex.def Info: ./Capture.PNG  used on input line 134.
+(pdftex.def)             Requested size: 406.51775pt x 218.31508pt.
+<./12.PNG, id=14, 398.23781pt x 262.73157pt>
+File: ./12.PNG Graphic file (type png)
+<use ./12.PNG>
+Package pdftex.def Info: ./12.PNG  used on input line 140.
+(pdftex.def)             Requested size: 398.23683pt x 262.73091pt.
  (./Paper_Template.bbl [2 <./random_car_transform.jpg>])
 
 ** Conference Paper **
@@ -439,16 +455,16 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3 <./model_plt.png>] (./Paper_Template.aux)
+[3 <./model_plt.png> <./Capture.PNG> <./12.PNG>] (./Paper_Template.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3891 strings out of 494847
- 57971 string characters out of 6179081
+ 3902 strings out of 494847
+ 58114 string characters out of 6179081
  117475 words of memory out of 5000000
- 7154 multiletter control sequences out of 15000+600000
+ 7162 multiletter control sequences out of 15000+600000
  40570 words of font info for 85 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
  41i,7n,26p,1209b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -457,10 +473,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
 tmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Paper_Template.pdf (3 pages, 156745 bytes).
+Output written on Paper_Template.pdf (3 pages, 185666 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

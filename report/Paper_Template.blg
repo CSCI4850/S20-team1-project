@@ -13,49 +13,51 @@ Database file #1: References.bib
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Name 1 in "Adel Ammar, Anis Koubaa, Mohanned Ahmed, and Abdulrahman Saad" has a comma at the end for entry b1
 while executing---line 2405 of file IEEEtran.bst
-Warning--empty note in b4
-Warning--empty year in b5
+Name 1 in "Giuseppe Amato, Fabio Carrara, Fabrizio Falchi, Claudio Gennaro, and Claudio Vairo" has a comma at the end for entry b3
+while executing---line 2405 of file IEEEtran.bst
+Too many commas in name 1 of "Giuseppe Amato, Fabio Carrara, Fabrizio Falchi, Claudio Gennaro, and Claudio Vairo" for entry b3
+while executing---line 2405 of file IEEEtran.bst
 
 Done.
 You've used 3 entries,
             4087 wiz_defined-function locations,
-            833 strings with 7635 characters,
-and the built_in function-call counts, 1096 in all, are:
-= -- 77
-> -- 17
+            835 strings with 7813 characters,
+and the built_in function-call counts, 1285 in all, are:
+= -- 98
+> -- 22
 < -- 1
-+ -- 8
-- -- 4
-* -- 61
-:= -- 220
++ -- 10
+- -- 5
+* -- 67
+:= -- 251
 add.period$ -- 6
 call.type$ -- 3
 change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 89
-empty$ -- 93
-format.name$ -- 5
-if$ -- 218
+cite$ -- 3
+duplicate$ -- 108
+empty$ -- 111
+format.name$ -- 7
+if$ -- 265
 int.to.chr$ -- 0
 int.to.str$ -- 3
-missing$ -- 16
+missing$ -- 18
 newline$ -- 32
 num.names$ -- 3
-pop$ -- 40
+pop$ -- 46
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 76
+skip$ -- 95
 stack$ -- 0
 substring$ -- 3
-swap$ -- 48
+swap$ -- 59
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
 type$ -- 3
-warning$ -- 2
+warning$ -- 0
 while$ -- 3
 width$ -- 4
-write$ -- 44
-(There was 1 error message)
+write$ -- 47
+(There were 3 error messages)

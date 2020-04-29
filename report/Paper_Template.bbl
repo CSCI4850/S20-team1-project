@@ -26,11 +26,13 @@ M.~A. Adel~Ammar, Anis~Koubaa and A.~Saad, ``Aerial images processing for car
   detection using convolutional neural networks: Comparison between faster
   r-cnn and yolov3,'' \emph{arXiv, Cornell University}, vol.~1, 2019.
 
-\bibitem{b4}
-K.~Elissa, ``Title of paper if known.''
+\bibitem{b3}
+F.~F. C.~G. Giuseppe~Amato, Fabio~Carrara and C.~Vairo, ``Car parking occupancy
+  detection using smart camera networks and deep learning,'' \emph{IEEE Xplore
+  Digital Library}, 2016.
 
-\bibitem{b5}
-R.~Nicole, ``Title of paper with only first word capitalized,'' \emph{J. Name
-  Stand. Abbrev.}
+\bibitem{b2}
+F.~Chollet, ``Building powerful image classification models using very little
+  data,'' \emph{The Keras Blog}, 2016.
 
 \end{thebibliography}
